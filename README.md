@@ -19,7 +19,7 @@ That's basically what this is.
 - Now open command prompt inside that folder and type python main.py and hit enter
 - If it says command not found try python3 main.py
 
-# How to test it
+# Instructions for testing
 - When the menu opens pick option 1 and add a task, put today's date as the deadline, it should say DUE TODAY
 - Add another task but this time put a date that is 1 or 2 days from now, it should say URGENT
 - Try adding a task with an old date like something from last month, it should show OVERDUE
